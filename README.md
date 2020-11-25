@@ -16,8 +16,9 @@ Crie uma aplicação utilizando a [API da marvel](https://developer.marvel.com/)
 
 ### Requisitos ###
 * Utilize HTML5 + CSS3 com Flex;
-* Utilize ReactJS ou VueJS;
+* Utilize ReactJS com Hooks e context API;
 * Não utilize Bootstrap ou outros frameworks do tipo;
+* Não utilize bibliotecas tipo: UnderScore, loadash e axios;
 * Layout responsivo;
 * Descreva no README os passos para execução do seu projeto;
 * Deixe seu reposiório público para analise do Pull Request;
@@ -25,4 +26,4 @@ Crie uma aplicação utilizando a [API da marvel](https://developer.marvel.com/)
 * O foco do teste é o código e sua organização, porém um bom layout ganha pontos.
 
 ### Prazo ###
-* 4 Dias.
+* 2 Dias.
